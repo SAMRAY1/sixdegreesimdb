@@ -16,11 +16,11 @@ namespace SixDegrees
         public const string HEADER_NAME_RESULTS = "IMDb Name  Search";
         public const string HEADER_TITLE_RESULTS = "IMDb Title  Search";
 
-        public const string URL_NAME_SEARCH = Resources.Url_Search_Name;
-        public const string URL_TITLE_SEARCH = Resources.Url_Search_Title;
-        public const string URL_ALL_SEARCH = Resources.Url_Search_All;
-        public const string URL_NAME_PAGE = Resources.Url_Page_Name;
-        public const string URL_TITLE_PAGE = Resources.Url_Page_Title;
+        public static string URL_NAME_SEARCH = Resources.Url_Search_Name;
+        public static string URL_TITLE_SEARCH = Resources.Url_Search_Title;
+        public static string URL_ALL_SEARCH = Resources.Url_Search_All;
+        public static string URL_NAME_PAGE = Resources.Url_Page_Name;
+        public static string URL_TITLE_PAGE = Resources.Url_Page_Title;
 
         #region Utility
 
